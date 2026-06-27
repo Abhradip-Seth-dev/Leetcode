@@ -4,7 +4,7 @@ public:
         int n=s.size();
         string news="";
         for(int i=0;i<n;i++){
-            if(!isalnum(s[i]) || s[i]==' '){
+            if(!isalnum(s[i])){
                 continue;
             }
             news+=tolower(s[i]);
