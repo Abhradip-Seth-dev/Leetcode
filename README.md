@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1652-defuse-the-bomb](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
