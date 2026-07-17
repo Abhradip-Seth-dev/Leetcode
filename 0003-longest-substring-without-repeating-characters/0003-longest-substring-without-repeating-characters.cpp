@@ -8,9 +8,8 @@ public:
         for(int right=0;right<n;right++){
             f[s[right]]++;
             int len=right-left+1;
-            while(f.size()<len){
+            while(f[s[right]]>1){
                 f[s[left]]--;
-                if (f[s[left]]==0) f.erase(s[left]);
                 left++;
                 len=right-left+1;
             }
