@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
