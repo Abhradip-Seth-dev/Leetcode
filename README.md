@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## String
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
