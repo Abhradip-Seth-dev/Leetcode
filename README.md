@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
