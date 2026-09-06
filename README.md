@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3280-convert-date-to-binary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3280-convert-date-to-binary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
