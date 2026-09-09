@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3280-convert-date-to-binary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
