@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3280-convert-date-to-binary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3945-digit-frequency-score](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
