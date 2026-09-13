@@ -1,0 +1,12 @@
+class Solution:
+    def areOccurrencesEqual(self, s: str) -> bool:
+        d={}
+        for char in s:
+            d[char] = d.get(char,0)+1
+
+        if len(set(d.values())) == 1:
+            return True
+
+        return False        
+
+                
