@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
