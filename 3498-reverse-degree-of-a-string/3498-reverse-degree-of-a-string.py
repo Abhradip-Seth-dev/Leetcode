@@ -11,7 +11,7 @@ class Solution:
         for i in range(0,len(s)):
             suum+=product*((i+1)*freq[s[i]])
 
-        return suum       
+        return suum 
             
             
         
