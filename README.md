@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0176-second-highest-salary) |
+| [1068-product-sales-analysis-i](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1068-product-sales-analysis-i) |
 ## Simulation
 |  |
 | ------- |
