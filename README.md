@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0482-license-key-formatting) |
 | [0771-jewels-and-stones](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
