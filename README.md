@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -259,4 +261,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhradip-Seth-dev/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
