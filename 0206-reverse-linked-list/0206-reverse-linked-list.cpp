@@ -19,8 +19,6 @@ public:
             curr->next=prev;
             prev=curr;
             curr=nxt;
-
-
         }
         head=prev;
         return head;
